@@ -28,11 +28,13 @@ Ridge Regression is used to:
 reduce overfitting
 handle multicollinearity
 
-📈 Model Performance
-Baseline MAE: ~29,807
-Training MAE: ~5,470
-Test MAE: ~5,436
-R² Score: 0.96
+| Metric       | Value  |
+| ------------ | ------ |
+| Baseline MAE | 29,807 |
+| Training MAE | 5,470  |
+| Test MAE     | 5,436  |
+| R² Score     | 0.96   |
+
 
 👉 Indicates strong predictive performance and good generalization.
 
