@@ -39,16 +39,22 @@ handle multicollinearity
 👉 Indicates strong predictive performance and good generalization.
 
 💡 Key Insights
-Location is the most influential factor in salary determination
-Certain job roles significantly increase earning potential
-Larger companies tend to offer higher salaries
-Higher education levels are associated with higher pay
+Location is the most influential factor in salary determination,
+Certain job roles significantly increase earning potential,
+Larger companies tend to offer higher salaries,
+Higher education levels are associated with higher pay,
 The number of skills alone is not a strong predictor
 
 ⚠️ Limitations
-Encoded categorical features reduce interpretability
-The dataset may be highly structured, influencing model performance
+Encoded categorical features reduce interpretability,
+The dataset may be highly structured, influencing model performance,
 Real-world salary variation may include unobserved factors
+
+🚀 Future Improvements
+Restore original categorical labels for better interpretability
+Experiment with other models (e.g., Lasso, Random Forest)
+Incorporate additional real-world features
+Deploy as a simple web application
 
 🚀 Conclusion
 The model demonstrates strong predictive capability and highlights key drivers of salary. While results are robust, further work could improve interpretability and incorporate additional real-world variables.
