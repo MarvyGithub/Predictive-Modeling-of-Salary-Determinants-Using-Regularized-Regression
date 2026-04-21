@@ -50,11 +50,17 @@ Encoded categorical features reduce interpretability,
 The dataset may be highly structured, influencing model performance,
 Real-world salary variation may include unobserved factors
 
+🧰 Tools & Technologies
+Python
+Pandas, NumPy
+Scikit-learn
+Matplotlib / Seaborn
+
+🚀 Conclusion
+The model demonstrates strong predictive capability and highlights key drivers of salary. While results are robust, further work could improve interpretability and incorporate additional real-world variables.
+
 🚀 Future Improvements
 Restore original categorical labels for better interpretability, 
 Experiment with other models (e.g., Lasso, Random Forest), 
 Incorporate additional real-world features, 
 Deploy as a simple web application
-
-🚀 Conclusion
-The model demonstrates strong predictive capability and highlights key drivers of salary. While results are robust, further work could improve interpretability and incorporate additional real-world variables.
