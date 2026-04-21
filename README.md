@@ -51,9 +51,9 @@ The dataset may be highly structured, influencing model performance,
 Real-world salary variation may include unobserved factors
 
 🚀 Future Improvements
-Restore original categorical labels for better interpretability
-Experiment with other models (e.g., Lasso, Random Forest)
-Incorporate additional real-world features
+Restore original categorical labels for better interpretability, 
+Experiment with other models (e.g., Lasso, Random Forest), 
+Incorporate additional real-world features, 
 Deploy as a simple web application
 
 🚀 Conclusion
