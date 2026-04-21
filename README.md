@@ -51,9 +51,9 @@ The dataset may be highly structured, influencing model performance,
 Real-world salary variation may include unobserved factors
 
 🧰 Tools & Technologies
-Python
-Pandas, NumPy
-Scikit-learn
+Python, 
+Pandas, NumPy, 
+Scikit-learn, 
 Matplotlib / Seaborn
 
 🚀 Conclusion
