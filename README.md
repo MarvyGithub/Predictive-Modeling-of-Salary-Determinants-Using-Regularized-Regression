@@ -64,3 +64,10 @@ Restore original categorical labels for better interpretability,
 Experiment with other models (e.g., Lasso, Random Forest), 
 Incorporate additional real-world features, 
 Deploy as a simple web application
+
+
+🚀 Deployment
+
+This project was deployed as an interactive web application using Streamlit, enabling users to input job-related features and receive real-time salary predictions. The trained machine learning pipeline—including preprocessing steps and the Ridge regression model—was serialized using joblib and integrated into the application to ensure consistency between training and inference. Additional input validation was implemented within the prediction function to enforce data integrity and prevent invalid entries, enhancing the robustness and reliability of the application.
+
+The application was further deployed online via Streamlit Community Cloud, allowing seamless public access through a web browser without requiring local setup. This deployment demonstrates the end-to-end lifecycle of a machine learning project—from data preprocessing and model development to production-ready deployment. By making the model accessible through an intuitive user interface, the project highlights practical considerations in real-world ML systems, including reproducibility, usability, and scalability.
